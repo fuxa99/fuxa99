@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently **studying**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently wokring on **Smart Home project using Python**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **fuxa99@seznam.cz**
+- 📫 How to reach me **xfuxad00@gmail.com**
 
-- ⚡ Fun fact **I play games and floorball.**
+- ⚡ Fun fact **florball player, playing videogames **
 
 ## 🚀 Languages and Tools:
 
