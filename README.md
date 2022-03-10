@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **xfuxad00@gmail.com**
 
-- ⚡ Fun fact **florball player, playing videogames **
+- ⚡ Fun fact **florball player, playing videogames**
 
 ## 🚀 Languages and Tools:
 
