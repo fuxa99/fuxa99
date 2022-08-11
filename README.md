@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently **studying**
 
-- 🌱 I’m currently wokring on **Smart Home project using Python**
+- 🌱 I’m currently wokring on **self-development in python and artificial intelligence**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
